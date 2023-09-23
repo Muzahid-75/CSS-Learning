@@ -1,0 +1,7 @@
+div
+{
+    border:2px solid blue;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 5px;
+}
