@@ -1,0 +1,9 @@
+div
+{
+    border: 2px solid red;
+    margin-left: 100px;
+}
+p.a
+{
+    margin:inherit;
+}
