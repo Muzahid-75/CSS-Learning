@@ -1,0 +1,32 @@
+p.a
+{
+    background-color: aqua;
+    color:white;
+    border: 2px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+p.b
+{
+    background-color: rgb(48, 3, 248);
+    color:rgb(239, 5, 5);
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(54, 190, 12);
+}
+p.c
+{
+    background-color: rgb(8, 244, 12);
+    color:rgb(253, 194, 0);
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(2, 17, 21);
+}
+p.d
+{
+    background-color: rgba(0, 0, 0, 0.868);
+    color:white;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(10, 213, 16);
+}
