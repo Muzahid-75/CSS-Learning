@@ -1,9 +1,37 @@
-div
+div.g
+{
+    border:3px solid greenyellow;
+    margin: 100px 100px 100px 100px;
+}
+p.a
 {
     border: 2px solid red;
     margin-left: 100px;
 }
-p.a
+p.b
 {
-    margin:inherit;
+    border: 2px solid red;
+    margin-right: 100px;
 }
+p.c
+{
+    border: 2px solid red;
+    margin-top: 100px;
+}
+p.d
+{
+    border: 2px solid red;
+    margin-bottom: 100px;
+}
+p.e
+{
+    border: 2px solid red;
+    margin: auto;
+}
+p.f
+{
+    border: 2px solid red;
+    margin: inherit;
+}
+
+

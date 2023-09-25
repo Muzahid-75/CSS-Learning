@@ -1,14 +1,14 @@
 p.a{
-    border-style: solid;
-    border-width: 2px;
+    border-style: solid double dotted solid;
+    border-width: 5px;
     border-color: red;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 p.b{
-    border-style: dashed;
+    border-top-style: dashed;
 }
 p.c{
-    border-style: double;
+    border-style: double dotted solid none;
 }
 p.d{
     border-style: outset;

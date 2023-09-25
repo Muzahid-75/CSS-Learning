@@ -4,4 +4,6 @@ div
     outline-style: solid;
     outline-color: red;
     outline-width: 5px;
+    outline-offset: 20px;
+    margin: 200px;
 }
