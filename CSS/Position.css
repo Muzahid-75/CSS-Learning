@@ -1,0 +1,15 @@
+div.a
+{
+    position:relative;
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+}
+div.b
+{
+    position:absolute;
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    top:80px;
+}

@@ -1,0 +1,33 @@
+div.a
+{
+    position: relative;
+}
+div.b
+{
+    position: relative;
+    border: 2px solid black;
+    height: 100px;
+    margin: 30px;
+    z-index: 1;
+}
+div.c
+{
+    position: absolute;
+    background: lightgrey;
+    height: 60px;
+    width: 70%;
+    left: 50px;
+    top: 50px;
+    z-index: 3;
+}
+div.d
+{
+    position: absolute;
+    background: green;
+    height: 100px;
+    top: -15px;
+    left: 270px;
+    width: 35%;
+    height: 100px;
+    z-index: 2;
+}
