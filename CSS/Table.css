@@ -1,0 +1,17 @@
+table,th,td
+{
+    border: 2px solid red;
+    border-collapse: collapse;
+    width: 900px;
+    height: 30px;
+    text-align: center;
+    margin-left:50px ;
+}
+table
+{
+    background-color: aqua;
+}
+tr:hover
+{
+    background-color: antiquewhite;
+}
