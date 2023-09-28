@@ -1,0 +1,53 @@
+div.header
+{
+    background-color: antiquewhite;
+    text-align: center;
+}
+div.nav
+{
+    background-color: bisque;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: auto;
+    background-color: black;
+}
+li
+{
+    float:left;
+}
+li a
+{
+    text-decoration:none;
+    color:white;
+    padding:5px;
+    margin:5px;
+}
+a:hover
+{
+    background-color: red;
+    text-decoration: none;
+}
+.column
+{
+    width: 30%;
+    float: left;
+    padding: 15px;
+    background-color: antiquewhite;
+}
+div.row
+{
+    content: "";
+    display: table;
+    clear:both;
+}
+
+
+div.footer
+{
+    background-color: rgb(12, 51, 243);
+    text-align: center;
+}
